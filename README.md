@@ -7,4 +7,4 @@ I was able to find a few implementations around the internet: <br>
 3 -> https://github.com/debarko/CapsNet-Tensorflow <br>
 4 -> https://github.com/ageron/handson-ml/blob/master/extra_capsnets.ipynb (Aurelian Geron's implementation) <br>
 <br>
-If there are any more good ones, feel free to open a pull request! I'd be more that happy to merge :).
+If there are any more good ones, feel free to open a pull request! I'd be more than happy to merge :).
